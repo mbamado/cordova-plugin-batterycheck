@@ -1,0 +1,26 @@
+{
+  "name": "cordova-plugin-batterycheck",
+  "version": "1.0.0",
+  "description": "Reads the current battery level and charging state of the device, once, on demand.",
+  "main": "www/batterycheck.js",
+  "cordova": {
+    "id": "cordova-plugin-batterycheck",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "battery",
+    "charging"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbamado/cordova-plugin-batterycheck.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mbamado/cordova-plugin-batterycheck/issues"
+  },
+  "license": "MIT"
+}
